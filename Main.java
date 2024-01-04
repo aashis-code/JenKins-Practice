@@ -20,6 +20,7 @@ public class Main {
 
     public static void main(String[] args){
        System.out.println("Jenkins automation server deployment.");
+       System.out.println("Email notification as post build action.");
       
     }
 }
